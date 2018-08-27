@@ -11,4 +11,4 @@ If you enter a coin that does not exist in coinmarketcap exchange yet, the progr
 it will calculate the next coin. 
 Also, it provides a comparison of the latest changes (% change) in order to help you decide what to sell or what to keep.
 
-In addition, it focuses in coinomi wallet where you can directly exchange the currencies with via Changelly or Shapeshift.
+In addition, it focuses in coinomi wallet where you can directly exchange the currencies via Changelly or Shapeshift.
